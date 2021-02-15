@@ -11,7 +11,7 @@ Styles included:
 - Cornell, narrow-ruled
 - Square grid, 5mm
 - Dotted, 5mm
-- Dotted, 5m, higher contrast
+- Dotted, 5mm, higher contrast
 
 ## Disclaimer...
 These files were originally created to fit my own personal preference.
