@@ -7,6 +7,8 @@ There are currently 2 flavors in US Letter Portrait and Landscape:
 
 Styles included:
 - Plain
+- Plain, college-ruled
+- Plain, narrow-ruled
 - Cornell, college-ruled
 - Cornell, narrow-ruled
 - Square grid, 5mm
@@ -20,3 +22,4 @@ I'm not an artist nor am I "skilled" with Affinity Designer. I just have a parti
 
 ## By Request
 2021-02-15 - Added Grid-XD (extra dark) for `BigBeer19`
+2021-05-12 - Added Plain ruled for `GloomyCloud4972`
